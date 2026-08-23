@@ -1,7 +1,5 @@
-# 🎵 Clef
-
 <p align="center">
-  <h1 align="center">🎵 Clef</h1>
+  <h1 align="center"> Clef</h1>
   <p align="center">
     A modern Android music player designed for a smooth and simple music experience.
   </p>
@@ -9,7 +7,7 @@
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="02.jpg" width="22%" />
