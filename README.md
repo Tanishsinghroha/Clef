@@ -1,18 +1,22 @@
 <p align="center">
-  <h1 align="center"> Clef</h1>
-  <p align="center">
-    A modern Android music player designed for a smooth and simple music experience.
-  </p>
+  <img src="AppIcon.jpg" width="120" alt="Clef App Icon">
+</p>
+
+<h1 align="center"> Clef</h1>
+
+<p align="center">
+  A modern Android music player designed for a smooth and simple music experience.
 </p>
 
 ---
 
-## Screenshots
+##  Screenshots
 
 <p align="center">
-  <img src="02.jpg" width="22%" />
   <img src="01.jpg" width="22%" />
+  <img src="02.jpg" width="22%" />
   <img src="03.jpg" width="22%" />
+  <img src="04.jpg" width="22%" />
 </p>
 
 ---
