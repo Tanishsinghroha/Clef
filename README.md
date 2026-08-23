@@ -12,10 +12,9 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="01.jpg" width="22%" />
   <img src="02.jpg" width="22%" />
+  <img src="01.jpg" width="22%" />
   <img src="03.jpg" width="22%" />
-  <img src="04.jpg" width="22%" />
 </p>
 
 ---
